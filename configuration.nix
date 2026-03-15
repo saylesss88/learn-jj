@@ -18,6 +18,7 @@
   # Select internationalisation properties.
   i18n.defaultLocale = "en_US.UTF-8";
 
+  networking.hostId = "11fdb844";
   # Define a user account.
   users.users.jr = {
     isNormalUser = true;
